@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="http-crud-sdk",
-    version="1.0.0",
+    version="1.0.1",
     description="A great CRUD SDK",
     author="LEstevalor",
     author_email="25348891955@qq.com",
